@@ -8,18 +8,17 @@ cover: photo-1490474418585-ba9bad8fd0ea-cover.jpg
 
 La dieta cetogénica, o dieta keto (de la palabra “ketogenic” en inglés), es una dieta muy baja en carbohidratos que convierte al cuerpo en una máquina de quemar grasa. Tiene muchos beneficios potenciales para la pérdida de peso, la salud y el rendimiento deportivo, y hay millones de personas que ya los han experimentado
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum. 
 
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. 
+### Introducción: ¿qué es la cetosis?
 
->Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna. 
+El nombre “dieta cetogénica” tiene su origen en que la dieta causa la producción de pequeñas moléculas de energía que se llaman “cetonas” o “cuerpos cetónicos”. Es un combustible alternativo para el cuerpo que se utiliza cuando hay una escasez de azúcar (glucosa) en la sangre.
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. 
+Las cetonas se producen cuando comes muy pocos carbohidratos (los cuales se descomponen muy rápidamente en azúcar sanguínea) y solamente cantidades moderadas de proteína (el exceso de proteína también se puede convertir en azúcar sanguínea).
 
-### Cras semper consectetur elementum
+Las cetonas se producen en el hígado a partir de la grasa. Después, se utilizan como energía por todo el cuerpo, incluyendo el cerebro. El cerebro es un órgano que consume mucha energía todos los días, y no se puede alimentar directamente de la grasa. Sólo funcionará con glucosa… o cetonas.
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum. 
+En una dieta cetogénica, todo tu cuerpo cambia su provisión de energía para funcionar casi exclusivamente con grasa. Los niveles de insulina se reducen y la quema de grasa aumenta drásticamente. Se vuelve fácil acceder a tus depósitos de grasa corporal para quemarlos. Obviamente esto es maravilloso si estás tratando de bajar de peso, pero hay también otros beneficios menos evidentes, como por ejemplo, tener menos hambre y alcanzar una provisión estable de energía.
 
-![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)
+Cuando el cuerpo produce cetonas se dice que está en cetosis. La manera más rápida de lograr esto es ayunando —es decir, no comiendo nada— pero obviamente no es posible ayunar para siempre.
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum. 
+Una dieta cetogénica, en cambio, se puede consumir indefinidamente, y también resulta en cetosis. Aporta muchos de los beneficios del ayuno –incluyendo la pérdida de peso– sin tener que ayunar.
